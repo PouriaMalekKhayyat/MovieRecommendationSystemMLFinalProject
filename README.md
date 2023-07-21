@@ -1,5 +1,7 @@
 A movie Recommendation system which uses Streamlit for UI and is deployed on Hugging Face.
 
+Hugging Face link: https://huggingface.co/spaces/Pouriamlk/FinalProjectRecommendationSystem
+
 
 ---
 title: FinalProjectRecommendationSystem
