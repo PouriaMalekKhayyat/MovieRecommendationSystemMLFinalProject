@@ -1,3 +1,6 @@
+A movie Recommendation system which uses Streamlit for UI and is deployed on Hugging Face.
+
+
 ---
 title: FinalProjectRecommendationSystem
 emoji: 👀
